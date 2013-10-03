@@ -1,4 +1,5 @@
 /*! Licensed under MIT, https://github.com/sofish/pen */
+// 别人都是 (function(doc){})()，用~function有什么作用吗？
 ~function(doc) {
 
   var Pen, FakePen, utils = {};
